@@ -1,7 +1,5 @@
-# Tanet-erp
-billing software
 # Tanet erp <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/office-building_1f3e2.png" width="50" height="50" />
-
+billing software
 A Billing software which has everything a seller wants including graph based on sales analysis
 <p align="center"><img src="https://www.sage.com/en-gb/blog/wp-content/uploads/sites/10/2018/03/SAGE-cheat-sheet-header.gif" width = 50%></p>
 
