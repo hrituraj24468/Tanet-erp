@@ -15,33 +15,33 @@ this software is incomplete... please dont mind i just set it to public...
 when program will open
 
 <p>
-<img width=80% src="https://i.postimg.cc/J0yVV8FB">
+<img width=80% src="https://i.postimg.cc/J0yVV8FB/Screenshot-723.png">
 </p>
 
 ### Category Page
 when seller will enter buyers number
 
 <p>
-<img width=80% src="https://i.postimg.cc/zV8cBYx7">
+<img width=80% src="https://i.postimg.cc/zV8cBYx7/Screenshot-724.png">
 </p>
 
 ### customers details
 
 <p>
-<img width=80% src="https://i.postimg.cc/KRfs3pV2">
+<img width=80% src="https://i.postimg.cc/KRfs3pV2/Screenshot-725.png">
 </p>
 
 ### Sales analysis
 
 <p>
-<img width=80% src="https://i.postimg.cc/bZvVxHc2">
+<img width=80% src="https://i.postimg.cc/bZvVxHc2/Screenshot-726.png">
 </p>
 
 
 ### Add product page
 
 <p>
-<img width=80% src="https://i.postimg.cc/McMs46G6">
+<img width=80% src="https://i.postimg.cc/McMs46G6/Screenshot-727.png">
 </p>
 
 
@@ -49,13 +49,13 @@ when seller will enter buyers number
 here seller can configure details of shop so program will print shop details on hardcopy
 
 <p>
-<img width=80% src="https://i.postimg.cc/cKpDGpKQ.png">
+<img width=80% src="https://i.postimg.cc/cKpDGpKQ/Screenshot-728.png">
 </p>
 
 
 ### PDF printed after pressing print button
 
 <p>
-<img width=80% src="https://i.postimg.cc/14pds3r4.png">
+<img width=80% src="https://i.postimg.cc/14pds3r4/Screenshot-729.png">
 </p>
 
